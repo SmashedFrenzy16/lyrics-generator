@@ -3,7 +3,7 @@ import sys
 
 again = True
 
-print("Welcome to NFT Media Library! Type in the number of the song that you want to generate its lyrics.")
+print("Welcome to this Lyrics Generator! Type in the number of the song that you want to generate its lyrics.")
 print("Please choose a list of songs below: ")
 
 print("1. Sorry by Justin Bieber")
